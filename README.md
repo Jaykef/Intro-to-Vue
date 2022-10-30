@@ -7,4 +7,4 @@ This repo contains source codes and slides for a programming tutorial session I 
 <img src="./shots/crud.png" />
 
 ### 2. Vue MyProfile App (using vue cdn)
-<img src="./shots/crud.png" />
+<img src="./shots/light.png" />
