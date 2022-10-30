@@ -4,4 +4,4 @@ This repo contains source codes and slides for a programming tutorial session I 
 ## Apps
 
 ### 1. Vue CRUD App (using cli tools)
-<im src="shots/crud.png" />
+<img src="./shots/crud.png" />
